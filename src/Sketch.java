@@ -12,7 +12,7 @@ public class Sketch extends PApplet {
      * variables.
      */
 
-    Ball b1;
+    private Ball b1;
 
     public void settings() {
         size(500, 500);
